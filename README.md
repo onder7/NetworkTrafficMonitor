@@ -1,4 +1,4 @@
-# 📡 Network Traffic Monitor – Windows 11
+# 📡 Network Traffic Monitor – Windows 7/10/11/S2026/2019/2022
 
 **Real-time network traffic analyzer with firewall control, process monitoring, logs, statistics, and bandwidth charts.**
 
@@ -12,6 +12,10 @@
 <img width="1351" height="326" alt="image" src="https://github.com/user-attachments/assets/9b37985b-0945-42e6-9d9b-55ace48aa9c4" />
 
 ---
+Relsease
+
+https://drive.google.com/file/d/14VLrIvpcfdVaA6WlEJ5MIJEZhJpMEEV_/view?usp=sharing
+
 
 # 🌍 Contents / İçerikler
 
