@@ -3,13 +3,7 @@
 **Real-time network traffic analyzer with firewall control, process monitoring, logs, statistics, and bandwidth charts.**
 
 **Windows 11 için gerçek zamanlı ağ trafiği izleme, process analizi, firewall kontrolü ve istatistik özellikleri sunar.**
-<img width="1390" height="795" alt="image" src="https://github.com/user-attachments/assets/1d2f239f-3e7b-40fc-ab65-c69cdf67b0ff" />
 
-<img width="1383" height="794" alt="image" src="https://github.com/user-attachments/assets/ba2e28d0-201c-479d-b8b7-46734abcccac" />
-
-<img width="1383" height="789" alt="image" src="https://github.com/user-attachments/assets/caa4773b-22b9-49e8-8354-8a132cf4c543" />
-
-<img width="1351" height="326" alt="image" src="https://github.com/user-attachments/assets/9b37985b-0945-42e6-9d9b-55ace48aa9c4" />
 
 ---
 Relsease
