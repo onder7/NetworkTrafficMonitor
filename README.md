@@ -72,7 +72,7 @@ Start-Process .\bin\Debug\net8.0-windows\NetworkTrafficMonitor.exe -Verb RunAs
 - **Search**: Process adı, IP, port, domain ile arama yapın
 - Gerçek zamanlı filtreleme - yazdıkça sonuçlar güncellenir!
 
-Detaylı bilgi için: [FILTERING_GUIDE.md](FILTERING_GUIDE.md)
+Detaylı bilgi için: [FILTERING_GUIDE.md](/Readme/FILTERING_GUIDE.md)
 
 ## Teknik Detaylar
 
